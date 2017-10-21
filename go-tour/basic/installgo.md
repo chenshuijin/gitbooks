@@ -19,6 +19,7 @@ wget https://studygolang.com/dl/golang/go1.9.1.linux-amd64.tar.gz
 ```
 brew install go
 ```
+
 ------------
 ## 环境变量设置
 `GOPATH`是工作目录
@@ -41,3 +42,7 @@ export GOROOT=/usr/local/Cellar/go/1.9/libexec
 export GOPATH=<go workspace>
 export PATH=$PATH:$GOROOT/bin
 ```
+
+-------------
+## VScode安装
+下载[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
