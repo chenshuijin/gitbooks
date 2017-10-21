@@ -3,20 +3,16 @@
 ## Go安装
 
 ### Go源码下载
-```
-https://studygolang.com/dl/golang/go1.9.1.src.tar.gz
-```
+
+[https://studygolang.com/dl/golang/go1.9.1.src.tar.gz](https://studygolang.com/dl/golang/go1.9.1.src.tar.gz)
 
 ### Windows
 下载地址
-```
-https://studygolang.com/dl/golang/go1.9.1.windows-amd64.msi
-```
+[https://studygolang.com/dl/golang/go1.9.1.windows-amd64.msi](https://studygolang.com/dl/golang/go1.9.1.windows-amd64.msi)
 
 ### *nix
 ```
 wget https://studygolang.com/dl/golang/go1.9.1.linux-amd64.tar.gz
-
 ```
 
 ### Mac
