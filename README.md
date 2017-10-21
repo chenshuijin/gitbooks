@@ -5,8 +5,8 @@ All the gitbooks
 ## Go Tourist
 
 * 基础
+  * [Go 环境安装](go-tour/basic/installgo.md)
   * [Hello world](go-tour/basic/helloworld.md)
-  * [环境安装](go-tour/basic/installgo.md)
   * [条件控制语句](go-tour/basic/if.md)
   * [循环控制语句](go-tour/basic/loop.md)
   * [条件选择语句](go-tour/basic/switch.md)
