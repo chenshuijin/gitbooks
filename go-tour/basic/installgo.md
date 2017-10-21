@@ -44,5 +44,8 @@ export PATH=$PATH:$GOROOT/bin
 ```
 
 -------------
+## git安装
+下载[https://git-scm.com/download/win](https://git-scm.com/download/win)
+
 ## VScode安装
 下载[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
