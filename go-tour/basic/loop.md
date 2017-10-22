@@ -1,6 +1,6 @@
 # 循环控制语句
 
-循环控制语句，包括：`for` `while`
+循环控制语句，包括：`for`
 
 ## 代码
 
@@ -19,7 +19,7 @@ func main() {
 		fmt.Println("for: ", i);
 	}
 	i = 0
-	while i<3 {
+	for i<3 {
 		fmt.Println("while: ", i);
 		i += 1
 	}
@@ -28,8 +28,10 @@ func main() {
 		fmt.Println("index %d, item %s", index, item)
 	}
 }
+
 ```
 
+-------------------
 ## 编译
 
 ```
@@ -37,7 +39,3 @@ go build loop.go
 ```
 
 ## 输出
-
-```
-
-```
