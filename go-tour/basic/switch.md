@@ -1,6 +1,6 @@
-# 选择控制语句
+# 条件选择语句
 
-选择控制语句，包括： `switch`
+条件选择语句，包括： `switch`
 
 ## 代码
 
@@ -14,16 +14,19 @@ import (
 )
 
 func main() {
-	if 1 == 1 {
-		fmt.Println("1==1 is %s", 1==1)
-	}
-	if 1 == 2 {
-		fmt.Println("1==2 is %s", 1==2)
-	} else {
-		fmt.Println("1==2 is %s", 1==2)
-	}
+	switch {
+	case 1 == 1:
+		fmt.Println("1 == 1")
+		fallthrough
+	case 2 == 2:
+		fmt.Println("2 == 2")
 
+	case 3 == 3:
+		fmt.Println("3 == 3")
+
+	}
 }
+
 ```
 
 ## 编译
