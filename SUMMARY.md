@@ -2,7 +2,6 @@
 
 * [摘要](README.md)
 
-
 ### Linux
 * [常用命令行](linux/README.md)
   * [文件管理](linux/files/README.md)
@@ -16,7 +15,6 @@
 	* [ls](linux/disk/ls.md)
 
 ### Go Tourist
-
 * 基础
   * [Go 环境安装](go-tour/basic/installgo.md)
   * [Hello world](go-tour/basic/helloworld.md)
@@ -38,4 +36,3 @@
 * 基于TCP/IP的服务开发实例
 
 * 基于HTTP的服务开发实例
-
