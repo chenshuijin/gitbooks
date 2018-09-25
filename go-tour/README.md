@@ -2,7 +2,7 @@
 
 go 应用实例教程
 
-* 基础
+## 基础
   * [Go 环境安装](basic/installgo.md)
   * [Hello world](basic/helloworld.md)
   * [条件控制语句](basic/if.md)
@@ -20,6 +20,6 @@ go 应用实例教程
   * [go断言的使用](improve/asset.md)
   * [JSON处理](improve/json.md)
 
-* 基于TCP/IP的服务开发实例
+## 基于TCP/IP的服务开发实例
 
-* 基于HTTP的服务开发实例
+## 基于HTTP的服务开发实例
