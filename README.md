@@ -5,14 +5,8 @@ All the gitbooks
 
 ## Linux
 
-Linux 常用命令
-
-|命令|说明|
-|--|--|
-|[常用命令行](linux/README.md)|一些Linux常用命令行说明|
+* [常用命令行](linux/README.md)
 
 ## Go Tourist
 
-GO 简易教程
-
-* [常用命令行](linux/README.md)
+* [Go 简易教程](go-tour/README.md)
