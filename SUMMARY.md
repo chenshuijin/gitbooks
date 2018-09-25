@@ -15,7 +15,7 @@
 	* [ls](linux/disk/ls.md)
 
 ### Go Tourist
-* 基础
+* [Go 简易教程](go-tour/README.md)
   * [Go 环境安装](go-tour/basic/installgo.md)
   * [Hello world](go-tour/basic/helloworld.md)
   * [条件控制语句](go-tour/basic/if.md)
