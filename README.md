@@ -2,6 +2,15 @@
 
 All the gitbooks
 
+
+## Linux
+
+Linux 常用命令
+
+|命令|说明|
+|--|--|
+|[常用命令行](linux/README.md)|一些Linux常用命令行说明|
+
 ## Go Tourist
 * 基础
   * [Go 环境安装](go-tour/basic/installgo.md)
@@ -24,3 +33,4 @@ All the gitbooks
 * 基于TCP/IP的服务开发实例
 
 * 基于HTTP的服务开发实例
+
